@@ -1,10 +1,10 @@
-terraform {
-  cloud {
-    organization = "sanskrit-survey-site"
+terraform { 
+  cloud { 
+    
+    organization = "Sanskrit_Family_Feud_Gameshow" 
 
-    workspaces {
-      name = "backend-ec2"
-    }
-  }
+    workspaces { 
+      name = "Survey_EC2" 
+    } 
+  } 
 }
-
