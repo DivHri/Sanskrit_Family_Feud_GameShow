@@ -1,10 +1,10 @@
 terraform { 
   cloud { 
     
-    organization = "sanskrit-survey-site" 
+    organization = "Sanskrit_Family_Feud_Gameshow" 
 
     workspaces { 
-      name = "api-gateway" 
+      name = "Survey_API_Gateway" 
     } 
   } 
 }
