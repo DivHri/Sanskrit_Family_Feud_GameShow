@@ -1,9 +1,9 @@
 name: Deleting all services
 
-on:
-  push:
-    branches: [Survey]
-  workflow_dispatch:
+#on:
+  #push:
+   # branches: [Survey]
+  # workflow_dispatch:
 
 jobs:
   setup-and-deploy:
