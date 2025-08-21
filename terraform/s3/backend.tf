@@ -1,10 +1,10 @@
 terraform { 
   cloud { 
     
-    organization = "sanskrit-gameshow" 
+    organization = "Sanskrit_Family_Feud_Gameshow" 
 
     workspaces { 
-      name = "gameshow-s3" 
+      name = "gameshow_s3" 
     } 
   } 
 }
