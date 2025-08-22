@@ -3,7 +3,7 @@ name: Full stack deployment
 
 on:
  workflow_dispatch:      
-  push:
+ push:
     branches: [ gameshow_branch ]    
 
 jobs:
